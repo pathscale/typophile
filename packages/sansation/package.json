@@ -1,5 +1,8 @@
 {
     "name": "@pathscale/fonts-sansation",
     "version": "1.0.1",
-    "main": "index.css"
+    "main": "index.css",
+    "publishConfig": {
+        "access": "public"
+    }
 }
