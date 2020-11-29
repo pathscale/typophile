@@ -1,5 +1,5 @@
 {
     "name": "@pathscale/fonts-quantify",
-    "package": "1.0",
+    "version": "1.0.0",
     "main": "index.css"
 }
