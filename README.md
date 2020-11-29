@@ -25,8 +25,8 @@ import '@pathscale/font-metroclean'
 
 ```CSS
 textarea.fancy {
-    font-family: 'metroclean',
-    font-weight: 'bold'
+    font-family: 'metroclean';
+    font-weight: 'bold';
 }
 ```
 
