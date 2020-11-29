@@ -1,0 +1,21 @@
+/* metroclean bold */
+@font-face {
+  font-family: "metroclean";
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src: url("./files/metroclean-medium.ttf") format("ttf"),
+    url("./files/metroclean-medium.vfc") format("vfc"),
+    url("./files/metroclean-medium.woff2") format("woff2");
+}
+
+/* metroclean bolder */
+@font-face {
+  font-family: "metroclean";
+  font-style: normal;
+  font-display: swap;
+  font-weight: bolder;
+  src: url("./files/metroclean-extrabold.ttf") format("ttf"),
+    url("./files/metroclean-extrabold.vfc") format("vfc"),
+    url("./files/metroclean-extrabold.woff2") format("woff2");
+}

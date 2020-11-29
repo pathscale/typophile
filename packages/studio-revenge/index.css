@@ -1,0 +1,44 @@
+/* studio-revenge regular */
+@font-face {
+  font-family: "studio-revenge";
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: url("./files/studio-revenge-regular.ttf") format("ttf"),
+    url("./files/studio-revenge-regular.woff2") format("woff2");
+}
+
+/* studio-revenge regular italic */
+@font-face {
+  font-family: "studio-revenge";
+  font-style: italic;
+  font-display: swap;
+  font-weight: normal;
+  src: url("./files/studio-revenge-regular-italic.ttf") format("ttf"),
+    url("./files/studio-revenge-regular-italic.woff2") format("woff2");
+}
+
+/* studio-revenge lighter */
+@font-face {
+  font-family: "studio-revenge";
+  font-style: normal;
+  font-display: swap;
+  font-weight: lighter;
+  src: url("./files/studio-revenge-thin.ttf") format("ttf"),
+    url("./files/studio-revenge-thin.woff2") format("woff2");
+}
+
+/* studio-revenge bold */
+@font-face {
+  font-family: "studio-revenge";
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src: url("./files/studio-revenge-bold.ttf") format("ttf"),
+    url("./files/studio-revenge-bold.woff2") format("woff2");
+}
+
+/* TODO: how should be registered studio-revenge-semi-bold ?
+    option 1: rename current bold as bolder and make this one bold
+    option 2: use numbers for font-width: 100, 200, ... 900
+*/

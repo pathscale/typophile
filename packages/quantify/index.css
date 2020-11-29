@@ -1,0 +1,8 @@
+/* quantify bold */
+@font-face {
+  font-family: "quantify";
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src: url("./files/quantify-bold.ttf") format("ttf");
+}

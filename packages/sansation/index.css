@@ -1,0 +1,53 @@
+/* sansation regular */
+@font-face {
+  font-family: "sansation";
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: url("./files/sansation-regular.ttf") format("ttf");
+}
+
+/* sansation regular italic */
+@font-face {
+  font-family: "sansation";
+  font-style: italic;
+  font-display: swap;
+  font-weight: normal;
+  src: url("./files/sansation-regular-italic.ttf") format("ttf");
+}
+
+/* sansation lighter */
+@font-face {
+  font-family: "sansation";
+  font-style: normal;
+  font-display: swap;
+  font-weight: lighter;
+  src: url("./files/sansation-light.ttf") format("ttf");
+}
+
+/* sansation ligther italic */
+@font-face {
+  font-family: "sansation";
+  font-style: italic;
+  font-display: swap;
+  font-weight: lighter;
+  src: url("./files/sansation-light-italic.ttf") format("ttf");
+}
+
+/* sansation bold */
+@font-face {
+  font-family: "sansation";
+  font-style: normal;
+  font-display: swap;
+  font-weight: bold;
+  src: url("./files/sansation-bold.ttf") format("ttf");
+}
+
+/* sansation bold italic */
+@font-face {
+  font-family: "sansation";
+  font-style: italic;
+  font-display: swap;
+  font-weight: bold;
+  src: url("./files/sansation-bold-italic.ttf") format("ttf");
+}
