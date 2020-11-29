@@ -1,6 +1,6 @@
 {
     "name": "@pathscale/fonts-metroclean",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "main": "index.css",
     "publishConfig": {
         "access": "public"
