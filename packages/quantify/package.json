@@ -1,6 +1,6 @@
 {
     "name": "@pathscale/fonts-quantify",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "index.css",
     "publishConfig": {
         "access": "public"
