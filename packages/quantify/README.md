@@ -1,22 +1,22 @@
-# @pathscale/fonts-metroclean
+# @pathscale/fonts-quantify
 
 ## Installation
 
-    npm i @pathscale/fonts-metroclean
+    npm i @pathscale/fonts-quantify
 
 ## Usage
 
 import from js
 
 ```JS
-import '@pathscale/fonts-metroclean'
+import '@pathscale/fonts-quantify'
 ```
 
 declare what font to use in css
 
 ```CSS
 body {
-    font-family: metroclean;
+    font-family: 'quantify';
     font-weight: bold;
 }
 ```
@@ -24,4 +24,3 @@ body {
 ## Variants supported:
 
 * bold
-* bolder
