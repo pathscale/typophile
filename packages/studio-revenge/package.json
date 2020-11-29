@@ -1,6 +1,6 @@
 {
     "name": "@pathscale/fonts-studio-revenge",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "index.css",
     "publishConfig": {
         "access": "public"
