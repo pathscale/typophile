@@ -1,14 +1,11 @@
 {
   "version": "1.0.0",
-  "name": "@pathscale/fonts",
+  "name": "root",
   "scripts": {
     "publish": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  }
+  "private": true
 }
