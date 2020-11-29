@@ -4,7 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: normal;
-  src: url("./files/studio-revenge-regular.ttf") format("ttf"),
+  src: url("./files/studio-revenge-regular.ttf") format("truetype"),
     url("./files/studio-revenge-regular.woff2") format("woff2");
 }
 
@@ -14,7 +14,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: normal;
-  src: url("./files/studio-revenge-regular-italic.ttf") format("ttf"),
+  src: url("./files/studio-revenge-regular-italic.ttf") format("truetype"),
     url("./files/studio-revenge-regular-italic.woff2") format("woff2");
 }
 
@@ -24,7 +24,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: lighter;
-  src: url("./files/studio-revenge-thin.ttf") format("ttf"),
+  src: url("./files/studio-revenge-thin.ttf") format("truetype"),
     url("./files/studio-revenge-thin.woff2") format("woff2");
 }
 
@@ -34,7 +34,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: bold;
-  src: url("./files/studio-revenge-bold.ttf") format("ttf"),
+  src: url("./files/studio-revenge-bold.ttf") format("truetype"),
     url("./files/studio-revenge-bold.woff2") format("woff2");
 }
 

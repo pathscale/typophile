@@ -4,7 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: normal;
-  src: url("./files/sansation-regular.ttf") format("ttf");
+  src: url("./files/sansation-regular.ttf") format("truetype");
 }
 
 /* sansation regular italic */
@@ -13,7 +13,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: normal;
-  src: url("./files/sansation-regular-italic.ttf") format("ttf");
+  src: url("./files/sansation-regular-italic.ttf") format("truetype");
 }
 
 /* sansation lighter */
@@ -22,7 +22,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: lighter;
-  src: url("./files/sansation-light.ttf") format("ttf");
+  src: url("./files/sansation-light.ttf") format("truetype");
 }
 
 /* sansation ligther italic */
@@ -31,7 +31,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: lighter;
-  src: url("./files/sansation-light-italic.ttf") format("ttf");
+  src: url("./files/sansation-light-italic.ttf") format("truetype");
 }
 
 /* sansation bold */
@@ -40,7 +40,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: bold;
-  src: url("./files/sansation-bold.ttf") format("ttf");
+  src: url("./files/sansation-bold.ttf") format("truetype");
 }
 
 /* sansation bold italic */
@@ -49,5 +49,5 @@
   font-style: italic;
   font-display: swap;
   font-weight: bold;
-  src: url("./files/sansation-bold-italic.ttf") format("ttf");
+  src: url("./files/sansation-bold-italic.ttf") format("truetype");
 }
