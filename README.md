@@ -4,6 +4,8 @@ This is mostly a collection of fonts that PathScale has a license to. If you don
 
 Some fonts are being released to the public and in those directories you can find a license.
 
+[Here](http://pathscale-fonts-demo.surge.sh/) you can see a live demo.
+
 ## Getting Started
 
 Each font it's deployed as a different npm package
