@@ -10,14 +10,14 @@ Each font it's deployed as a different npm package
 
 ### Installing a font
 
-    npm i @pathscale/font-metroclean
+    npm i @pathscale/fonts-metroclean
 
 ### Import font
 
 Import the front from within js, it can be the entrypoint for your project main.js
 
 ```JS
-import '@pathscale/font-metroclean'
+import '@pathscale/fonts-metroclean'
 ```
 
 ### Style something
