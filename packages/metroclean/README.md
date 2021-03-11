@@ -23,5 +23,6 @@ body {
 
 ## Variants supported:
 
-* bold
-* bolder
+* regular
+* medium
+* extra-bold
