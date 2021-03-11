@@ -3,7 +3,7 @@
   font-family: "metroclean";
   font-style: normal;
   font-display: swap;
-  font-weight: regular;
+  font-weight: normal;
   src: url("./files/metroclean-regular.ttf") format("truetype"),
     url("./files/metroclean-regular.vfc") format("vfc"),
     url("./files/metroclean-regular.woff2") format("woff2");
