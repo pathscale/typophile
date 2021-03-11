@@ -17,7 +17,7 @@ declare what font to use in css
 ```CSS
 body {
     font-family: metroclean;
-    font-weight: bold;
+    font-weight: regular;
 }
 ```
 
