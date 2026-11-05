@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "root",
   "scripts": {
-    "publish": "lerna publish"
+    "publish": "echo 'Publishing blocked pending verified font rights and notices'; exit 1"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
